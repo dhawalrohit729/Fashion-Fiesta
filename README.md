@@ -1,7 +1,7 @@
 ## Fashion Fiesta
 
 It is a responsive webpage for the Purpose of Selling Clothing things Online, and Expanding the existing Customer Base.
-It Contains a Designs for DashBoard, Browsing Section , Cart, NewsLetter, Registeration Pages. .
+It Contains a Designs for DashBoard, Browsing Section , Cart , Register/Login Pages.
 
 The Snippets of Above Project. 
 # DashBoard
