@@ -19,12 +19,7 @@ The Snippets of Above Project.
 # Login Page
 
 ![Login](https://user-images.githubusercontent.com/43619839/137066527-6f04d75c-ecda-460e-9f12-b865193f31eb.png)
-![Shooping_Cart2](https://user-images.githubusercontent.com/43619839/137066490-a9c09fb4-637b-48c0-ac5c-9096da8ff2b8.png)
-![Login2](https://user-images.githubusercontent.com/43619839/137066542-f1911b4d-0e21-4af0-9c83-6d792a76fccf.png)
 
-# Contact Info
-
-![Footer](https://user-images.githubusercontent.com/43619839/137066706-25b13116-6962-4cc7-aba1-8797fb2011e7.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
