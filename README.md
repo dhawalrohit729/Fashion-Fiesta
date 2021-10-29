@@ -16,11 +16,6 @@ The Snippets of Above Project.
 
 ![Shooping Cart](https://user-images.githubusercontent.com/43619839/137066460-8a6fa5f4-64ef-44a5-98a4-254d6a7570d8.png)
 
-# Login Page
-
-![Login](https://user-images.githubusercontent.com/43619839/137066527-6f04d75c-ecda-460e-9f12-b865193f31eb.png)
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
